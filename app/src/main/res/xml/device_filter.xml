@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <usb-device vendor-id="1d6b" product-id="0003" class="255" subclass="66" protocol="1" />
+</PreferenceScreen>
